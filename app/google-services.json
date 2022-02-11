@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647783764835",
+    "project_id": "placement-announcements",
+    "storage_bucket": "placement-announcements.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647783764835:android:5fafaf8f597c7ff87c3956",
+        "android_client_info": {
+          "package_name": "com.example.placementannouncements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647783764835-mit4dghe4vupp0meooab0g596s5ihhbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRA0kscTf0fK1VYW9gKcamFVfNNO6wdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647783764835-mit4dghe4vupp0meooab0g596s5ihhbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
